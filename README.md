@@ -9,7 +9,9 @@ A collection of awesome things for the [Mixer](https://mixer.com) streaming serv
 
 * [Botismo](https://botisimo.com/index.html) - Subscription based
 * [Nightbot](https://nightbot.tv/)
+* [Pixel Chat](https://pixelchat.tv/)
 * [Streamlabs Cloudbot](https://streamlabs.com/cloudbot)
+* [StreamElements](https://streamelements.com/)
 
 ### Bots - Run Locally
 
@@ -22,6 +24,9 @@ A collection of awesome things for the [Mixer](https://mixer.com) streaming serv
 * [OBS Studio](https://obsproject.com/)
 * [Streamlabs OBS](https://streamlabs.com/streamlabs-obs)
 * [XSplit Broadcaster](https://www.xsplit.com/broadcaster)
+
+### Closed Captioning
+* [Pixel Chat](https://pixelchat.tv/)
 
 ### Graphics and Sound
 
