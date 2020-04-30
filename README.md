@@ -29,6 +29,8 @@ A collection of awesome things for the [Mixer](https://mixer.com) streaming serv
 * [Pixel Chat](https://pixelchat.tv/)
 
 ### Graphics and Sound
+* [dafont.com](https://www.dafont.com/) - fonts (free for personal use)
+* [Myinstants](https://www.myinstants.com/index/us/) - web soundboard with downloads
 
 ### Interactive
 
@@ -45,6 +47,7 @@ A collection of awesome things for the [Mixer](https://mixer.com) streaming serv
 ### Software
 
 * [FaceRig](https://facerig.com/) - Replace your webcam with an animated avatar that tracks your face
+
 
 ## For Developers
 
